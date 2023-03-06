@@ -1,5 +1,6 @@
 # Fit4win
-The Fit4Win health app is developed using React Native to store the medical history and doctor’s appointments of the patient. \n 
+The Fit4Win health app is developed using React Native to store the medical history and doctor’s appointments of the patient.  
+![Main Page](Screenshots/MainPage.jpg)
 The patient has to register in the app using name, date of birth, gender, blood group and phone number and he/she can login using name and phone number. 
 On the Home page, there are icons of ‘Find a Doctor’, ‘My Doctor’, ‘Allergies’, ‘Medications’, ‘My Family’ and ‘Add a Family Member’. 
 In ‘Find a Doctor’,we can search for doctors in our area according to our requirements ,view their details and save them to ‘My Doctors’ for future reference. 
