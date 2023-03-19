@@ -16,4 +16,4 @@ After registering we can login through the login screen. We will be redirected t
 * My Family: Information of all the family members along with the relation type.
 * Add Family Member: An option to add someone as our family.  
 
-![WhatsApp Image 2023-03-19 at 8 29 26 AM](https://user-images.githubusercontent.com/89999331/226152931-a5fae2dd-cc0a-4ace-9b76-bce62a01ecbb.jpeg)   &nbsp ; &nbsp ; &nbsp ; &nbsp ; ![WhatsApp Image 2023-03-19 at 8 29 38 AM](https://user-images.githubusercontent.com/89999331/226152949-f0b286e4-cf98-48f7-8500-3b96f7f027e0.jpeg)
+![WhatsApp Image 2023-03-19 at 8 29 26 AM](https://user-images.githubusercontent.com/89999331/226152931-a5fae2dd-cc0a-4ace-9b76-bce62a01ecbb.jpeg)   &nbsp; ![WhatsApp Image 2023-03-19 at 8 29 38 AM](https://user-images.githubusercontent.com/89999331/226152949-f0b286e4-cf98-48f7-8500-3b96f7f027e0.jpeg)
