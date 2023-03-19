@@ -21,13 +21,8 @@ After registering we can login through the login screen. We will be redirected t
 
 We can add a doctor to the my doctors panel by opening up a doctor's profile and clicking on 'Add as my doctor'. In the same way we can link our account with a family member by specifying the relationship:  
 
-![WhatsApp Image 2023-03-19 at 8 29 47 AM](https://user-images.githubusercontent.com/89999331/226153285-5e165d9f-151e-4433-a413-7ebffd50dc93.jpeg)  
- ![WhatsApp Image 2023-03-19 at 8 30 23 AM](https://user-images.githubusercontent.com/89999331/226153327-e592ad8a-10a3-447f-8993-6c4631fad755.jpeg)  
+![WhatsApp Image 2023-03-19 at 8 29 47 AM](https://user-images.githubusercontent.com/89999331/226153285-5e165d9f-151e-4433-a413-7ebffd50dc93.jpeg) &nbsp; &nbsp; &nbsp; &nbsp;             ![WhatsApp Image 2023-03-19 at 8 30 23 AM](https://user-images.githubusercontent.com/89999331/226153327-e592ad8a-10a3-447f-8993-6c4631fad755.jpeg)  
  Similarly we can add allergies and medications and they will be displayed:  
- ![WhatsApp Image 2023-03-19 at 8 30 11 AM](https://user-images.githubusercontent.com/89999331/226153350-9c3deb03-d685-41f7-a7ee-8d5b96d0cc7e.jpeg)
-
-![WhatsApp Image 2023-03-19 at 8 30 12 AM](https://user-images.githubusercontent.com/89999331/226153346-03750d36-54f1-42fe-8ba8-f546fe2bad26.jpeg)
-![WhatsApp Image 2023-03-19 at 8 30 11 AM (2)](https://user-images.githubusercontent.com/89999331/226153353-95f5da17-fcef-4b79-9794-0caa8d1ac496.jpeg)
+![WhatsApp Image 2023-03-19 at 8 30 11 AM](https://user-images.githubusercontent.com/89999331/226153350-9c3deb03-d685-41f7-a7ee-8d5b96d0cc7e.jpeg)  &nbsp; &nbsp; &nbsp; &nbsp;           ![WhatsApp Image 2023-03-19 at 8 30 11 AM (1)](https://user-images.githubusercontent.com/89999331/226153374-ee1243b0-c107-424a-94f5-45c1eec14165.jpeg) &nbsp; &nbsp; &nbsp; &nbsp;           ![WhatsApp Image 2023-03-19 at 8 30 11 AM (2)](https://user-images.githubusercontent.com/89999331/226153353-95f5da17-fcef-4b79-9794-0caa8d1ac496.jpeg)  &nbsp; &nbsp; &nbsp; &nbsp;           ![WhatsApp Image 2023-03-19 at 8 30 12 AM](https://user-images.githubusercontent.com/89999331/226153346-03750d36-54f1-42fe-8ba8-f546fe2bad26.jpeg)
 
 
-![WhatsApp Image 2023-03-19 at 8 30 11 AM (1)](https://user-images.githubusercontent.com/89999331/226153374-ee1243b0-c107-424a-94f5-45c1eec14165.jpeg)
