@@ -11,6 +11,8 @@ First continuing with the patient registration, the following screen is displaye
   
   
 ![WhatsApp Image 2023-03-19 at 8 28 42 AM](https://user-images.githubusercontent.com/89999331/226152656-78c6651c-c0ec-4e5a-81a1-256579635b78.jpeg)  &nbsp; &nbsp; &nbsp; &nbsp;           ![WhatsApp Image 2023-03-19 at 8 29 15 AM](https://user-images.githubusercontent.com/89999331/226152658-ecc50982-9963-437e-b23d-5979d94bccaf.jpeg)  
+  
+
 After registering we can login through the login screen. We will be redirected to the welcome page. Here we can see several options like:
 * Find a Doctor: Where we can view the profiles of all the registered doctors.
 * My Doctors: List of all the doctors that we have added to as 'My Doctor'.
@@ -33,7 +35,7 @@ We can add a doctor to the my doctors panel by opening up a doctor's profile and
 Similarly we can add allergies and medications and they will be displayed:  
   
   
-![WhatsApp Image 2023-03-19 at 8 30 11 AM](https://user-images.githubusercontent.com/89999331/226153350-9c3deb03-d685-41f7-a7ee-8d5b96d0cc7e.jpeg)  &nbsp; &nbsp; &nbsp;           ![WhatsApp Image 2023-03-19 at 8 30 11 AM (1)](https://user-images.githubusercontent.com/89999331/226153374-ee1243b0-c107-424a-94f5-45c1eec14165.jpeg) &nbsp; &nbsp; &nbsp;           ![WhatsApp Image 2023-03-19 at 8 30 11 AM (2)](https://user-images.githubusercontent.com/89999331/226153353-95f5da17-fcef-4b79-9794-0caa8d1ac496.jpeg)  &nbsp; &nbsp; &nbsp;           ![WhatsApp Image 2023-03-19 at 8 30 12 AM](https://user-images.githubusercontent.com/89999331/226153346-03750d36-54f1-42fe-8ba8-f546fe2bad26.jpeg)  
+![WhatsApp Image 2023-03-19 at 8 30 11 AM](https://user-images.githubusercontent.com/89999331/226153350-9c3deb03-d685-41f7-a7ee-8d5b96d0cc7e.jpeg)  &nbsp; &nbsp;          ![WhatsApp Image 2023-03-19 at 8 30 11 AM (1)](https://user-images.githubusercontent.com/89999331/226153374-ee1243b0-c107-424a-94f5-45c1eec14165.jpeg) &nbsp; &nbsp;           ![WhatsApp Image 2023-03-19 at 8 30 11 AM (2)](https://user-images.githubusercontent.com/89999331/226153353-95f5da17-fcef-4b79-9794-0caa8d1ac496.jpeg)  &nbsp; &nbsp;           ![WhatsApp Image 2023-03-19 at 8 30 12 AM](https://user-images.githubusercontent.com/89999331/226153346-03750d36-54f1-42fe-8ba8-f546fe2bad26.jpeg)  
   
 
 Considering the doctor's point of view. The registration and login page for the Doctor is as follows. A similar OTP verification process for the doctor's phone number verification is carried out.  
