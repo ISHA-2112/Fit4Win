@@ -1,9 +1,6 @@
-# Fit4win
-The Fit4Win health app is developed using React Native to store the medical history and doctor’s appointments of the patient.  
-![Main Page](Screenshots/MainPage.jpg)
-The patient has to register in the app using name, date of birth, gender, blood group and phone number and he/she can login using name and phone number. 
-On the Home page, there are icons of ‘Find a Doctor’, ‘My Doctor’, ‘Allergies’, ‘Medications’, ‘My Family’ and ‘Add a Family Member’. 
-In ‘Find a Doctor’,we can search for doctors in our area according to our requirements ,view their details and save them to ‘My Doctors’ for future reference. 
-The patients can save their allergies in the ‘Allergies’ page which can be viewed by the doctor. 
-If there are any medications taken for any health conditions ,for example, Diabetes, can be saved in ‘Medications’ page so that we can get the app notifications at the proper time. 
-We can add Family members in the ‘My Family’ page so that they can be contacted in times of emergency and also Doctors can check body symptoms of the family members to conclude for any genetic or infectious ailment.
+# Fit4Win
+Fit4Win is an app developed to facilitate efficient documentation and conveyance of information between the patient and the doctor.  
+
+The welcome screen displays the login and registration options for patients. If a doctor wishes to access the patient information he/she can click on the 'Are you a Doctor?' option.  
+
+![WhatsApp Image 2023-03-19 at 8 28 31 AM](https://user-images.githubusercontent.com/89999331/226151835-b7d141c2-3dde-4073-941a-24511aadd17f.jpeg)
