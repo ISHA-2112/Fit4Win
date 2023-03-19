@@ -1,5 +1,5 @@
 # Fit4Win
-Fit4Win is an app developed to facilitate efficient documentation and conveyance of information between the patient and the doctor.  This app is developed using **React Native** and the data is stored in NoSql format in **Firebase**.
+Fit4Win is an app developed to facilitate efficient documentation and conveyance of information between the patient and the doctor.  This app is developed using **React Native** and the data is stored in NoSQL format in **Firebase**.
 
 The welcome screen displays the Login and Registration options for patients. If a doctor wishes to access the patient information he/she can click on the 'Are you a Doctor?' option.  
   
