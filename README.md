@@ -41,7 +41,7 @@ The doctor can view the patient's family information in order to find any correl
 
 The doctor can generate a pdf of the prescription and send it via Whatsapp or other messaging platforms:  
 
-![WhatsApp Image 2023-03-19 at 8 30 58 AM](https://user-images.githubusercontent.com/89999331/226154244-5aff309c-13f6-43ac-8483-dab75d64f59a.jpeg) &nbsp; &nbsp; &nbsp; &nbsp;           ![WhatsApp Image 2023-03-19 at 8 31 05 AM (1)](https://user-images.githubusercontent.com/89999331/226154256-cd4aab05-6cdc-4307-8a1e-322ab9862f4b.jpeg)  &nbsp; &nbsp; &nbsp; &nbsp;           ![WhatsApp Image 2023-03-19 at 8 31 05 AM](https://user-images.githubusercontent.com/89999331/226154261-c086c376-b1a8-446a-a4a2-f11d339d2eab.jpeg)
+![WhatsApp Image 2023-03-19 at 8 30 58 AM](https://user-images.githubusercontent.com/89999331/226154244-5aff309c-13f6-43ac-8483-dab75d64f59a.jpeg) &nbsp; &nbsp; &nbsp; &nbsp;       ![WhatsApp Image 2023-03-19 at 8 31 05 AM (1)](https://user-images.githubusercontent.com/89999331/226154291-11a16dc8-d14b-461f-914f-35c6e9f4aabf.jpeg)      &nbsp; &nbsp; &nbsp; &nbsp;           ![WhatsApp Image 2023-03-19 at 8 31 05 AM](https://user-images.githubusercontent.com/89999331/226154261-c086c376-b1a8-446a-a4a2-f11d339d2eab.jpeg)
 
 
 
